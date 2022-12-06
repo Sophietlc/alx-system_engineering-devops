@@ -1,2 +1,2 @@
 #Shell Basics
-Creating executable scripts
+This project involves working with the shell
